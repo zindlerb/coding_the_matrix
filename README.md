@@ -1,3 +1,5 @@
-# coding_the_matrix
+# Coding the Matrix
+Exercises and collected resources for the book Coding the Matrix
 
-Exercises for https://codingthematrix.com/
+- [Website Link](https://codingthematrix.com/)
+- [Lectures](http://cs.brown.edu/courses/cs053/current/lectures.htm)
